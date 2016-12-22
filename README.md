@@ -1,5 +1,6 @@
 # plusOuMoins
 
+## Projet:
 - auteur:     MCP <<maxime.chevallier_pichon@yahoo.fr>>
 - date:       12/2016
 - lang:       fr
